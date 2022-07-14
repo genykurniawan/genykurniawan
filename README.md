@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @genykurniawan
-- 👀 I’m interested in programming
+- 👀 I’m interested in web programming
 
 <!---
 genykurniawan/genykurniawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
